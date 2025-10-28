@@ -1,7 +1,7 @@
 # 🚦 ETL Airflow Traffic Data Pipeline  
 
 ## 🧩 Problem Statement  
-National highways experience growing congestion due to fragmented toll data systems — each operator maintains traffic records in different file formats (CSV, TSV, and fixed-width text).  
+National highways experience growing congestion due to fragmented toll data systems; each operator maintains traffic records in different file formats (CSV, TSV, and fixed-width text).  
 As a Data Engineer, the goal is to design an **automated ETL pipeline using Apache Airflow** that:  
 - Extracts data from multiple file formats  
 - Transforms and consolidates the datasets into a unified structure  
